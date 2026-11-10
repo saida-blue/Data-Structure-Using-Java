@@ -1,0 +1,16 @@
+// Complete the TODO parts in class.
+public class Activity {
+    public static void main(String[] args) {
+        // TODO 2: create two Course objects
+        // TODO 3: call printCourse() for both objects
+    }
+}
+
+class Course {
+    // TODO 1: add code, title and credits fields
+    // TODO 1: add a constructor
+
+    void printCourse() {
+        // TODO 4: print the course information
+    }
+}

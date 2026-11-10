@@ -1,0 +1,13 @@
+// This is an example of code that gives a compile error.
+// age is private, so it cannot be accessed directly from outside Student.
+
+class Student {
+    private int age;
+}
+
+class Test {
+    public static void main(String[] args) {
+        Student ahmed = new Student();
+        ahmed.age = -5;
+    }
+}

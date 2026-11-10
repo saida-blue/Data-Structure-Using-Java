@@ -1,0 +1,8 @@
+// This code gives a compile error because score has no value yet.
+
+public class LocalVariableExample {
+    public static void main(String[] args) {
+        int score;
+        System.out.println(score);
+    }
+}

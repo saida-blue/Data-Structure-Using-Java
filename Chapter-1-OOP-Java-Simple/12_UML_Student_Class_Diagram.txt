@@ -1,0 +1,21 @@
+STUDENT CLASS DIAGRAM (UML)
+
++-------------------------------+
+|            Student            |
++-------------------------------+
+| - name : String               |
+| - age : int                   |
+| + id : int                    |
++-------------------------------+
+| + displayInfo() : void        |
+| + calculateGrade(score:int)   |
+|   : double                    |
++-------------------------------+
+
+UML visibility symbols:
++ public
+- private
+# protected
+~ default / package-private
+
+UML class diagram sections: class name, attributes and methods.
