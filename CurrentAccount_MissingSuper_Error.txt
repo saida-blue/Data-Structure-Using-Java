@@ -1,0 +1,17 @@
+// This code does not compile because BankAccount has no no-argument constructor.
+
+class BankAccount {
+    BankAccount(String accountNumber) {
+    }
+}
+
+class CurrentAccount extends BankAccount {
+    CurrentAccount(double limit) {
+        // Java tries to call super() here, but it does not exist.
+    }
+}
+
+// One possible fix:
+// CurrentAccount(String number, double limit) {
+//     super(number);
+// }

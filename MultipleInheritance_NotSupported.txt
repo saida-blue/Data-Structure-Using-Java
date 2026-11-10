@@ -1,0 +1,17 @@
+// This example is not valid Java.
+// A class cannot extend two classes at the same time.
+
+class Car {
+    void start() {
+        System.out.println("Car starts");
+    }
+}
+
+class Boat {
+    void start() {
+        System.out.println("Boat starts");
+    }
+}
+
+// This causes a compile error:
+// class AmphibiousCar extends Car, Boat { }
