@@ -1,0 +1,19 @@
+CHAPTER 1 - INTRODUCTION TO OBJECT-ORIENTED PROGRAMMING IN JAVA
+
+OOP: A way of programming using objects that contain data and methods.
+Class: A blueprint used to create objects.
+Object: An instance of a class that exists in memory.
+Attributes / fields: Data that an object has.
+Methods: Actions an object can do.
+Constructor: Special code used to initialize an object. It has the class name and no return type.
+Default constructor: Java supplies an empty no-argument constructor only when no constructor is written.
+Encapsulation: Keeping data and methods together and controlling direct access to data.
+Getter: A method used to read a private field.
+Setter: A method used to change a field in a controlled way.
+Instance member: Belongs to one object. Each object has its own instance fields.
+Static member: Belongs to the class and is shared.
+Access modifiers: public, private, protected and default.
+this: Refers to the current object. this(...) calls another constructor in the same class.
+UML: A visual way to plan classes, fields, methods and relationships.
+
+OOP concepts listed in the lecture: classes, objects, inheritance, polymorphism, encapsulation and abstraction.

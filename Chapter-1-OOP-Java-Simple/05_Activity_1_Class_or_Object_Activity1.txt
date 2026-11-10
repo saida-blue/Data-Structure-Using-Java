@@ -1,0 +1,24 @@
+ACTIVITY 1 - CLASS OR OBJECT?
+
+Think: Decide if each one is a class or an object.
+Pair: Compare your answers with a classmate.
+Share: Explain one answer to the class.
+
+1. Student
+2. Ahmed, ID 1001
+3. Car
+4. Your father's Toyota (H-1234)
+5. Book
+6. The Qur'an on your shelf
+7. The JUST registration form
+8. The phone in your pocket
+
+My answers:
+1. Class
+2. Object
+3. Class
+4. Object
+5. Class
+6. Object
+7. Class
+8. Object
